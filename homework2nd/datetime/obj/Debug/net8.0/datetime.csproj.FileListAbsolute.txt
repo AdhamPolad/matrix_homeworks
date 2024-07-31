@@ -1,0 +1,14 @@
+C:\Users\aser\Desktop\c#\homework\homework2nd\datetime\bin\Debug\net8.0\datetime.exe
+C:\Users\aser\Desktop\c#\homework\homework2nd\datetime\bin\Debug\net8.0\datetime.deps.json
+C:\Users\aser\Desktop\c#\homework\homework2nd\datetime\bin\Debug\net8.0\datetime.runtimeconfig.json
+C:\Users\aser\Desktop\c#\homework\homework2nd\datetime\bin\Debug\net8.0\datetime.dll
+C:\Users\aser\Desktop\c#\homework\homework2nd\datetime\bin\Debug\net8.0\datetime.pdb
+C:\Users\aser\Desktop\c#\homework\homework2nd\datetime\obj\Debug\net8.0\datetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aser\Desktop\c#\homework\homework2nd\datetime\obj\Debug\net8.0\datetime.AssemblyInfoInputs.cache
+C:\Users\aser\Desktop\c#\homework\homework2nd\datetime\obj\Debug\net8.0\datetime.AssemblyInfo.cs
+C:\Users\aser\Desktop\c#\homework\homework2nd\datetime\obj\Debug\net8.0\datetime.csproj.CoreCompileInputs.cache
+C:\Users\aser\Desktop\c#\homework\homework2nd\datetime\obj\Debug\net8.0\datetime.dll
+C:\Users\aser\Desktop\c#\homework\homework2nd\datetime\obj\Debug\net8.0\refint\datetime.dll
+C:\Users\aser\Desktop\c#\homework\homework2nd\datetime\obj\Debug\net8.0\datetime.pdb
+C:\Users\aser\Desktop\c#\homework\homework2nd\datetime\obj\Debug\net8.0\datetime.genruntimeconfig.cache
+C:\Users\aser\Desktop\c#\homework\homework2nd\datetime\obj\Debug\net8.0\ref\datetime.dll

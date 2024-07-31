@@ -1,0 +1,14 @@
+C:\Users\aser\source\repos\homework1st\homework1\bin\Debug\net8.0\homework1st.exe
+C:\Users\aser\source\repos\homework1st\homework1\bin\Debug\net8.0\homework1st.deps.json
+C:\Users\aser\source\repos\homework1st\homework1\bin\Debug\net8.0\homework1st.runtimeconfig.json
+C:\Users\aser\source\repos\homework1st\homework1\bin\Debug\net8.0\homework1st.dll
+C:\Users\aser\source\repos\homework1st\homework1\bin\Debug\net8.0\homework1st.pdb
+C:\Users\aser\source\repos\homework1st\homework1\obj\Debug\net8.0\homework1st.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aser\source\repos\homework1st\homework1\obj\Debug\net8.0\homework1st.AssemblyInfoInputs.cache
+C:\Users\aser\source\repos\homework1st\homework1\obj\Debug\net8.0\homework1st.AssemblyInfo.cs
+C:\Users\aser\source\repos\homework1st\homework1\obj\Debug\net8.0\homework1st.csproj.CoreCompileInputs.cache
+C:\Users\aser\source\repos\homework1st\homework1\obj\Debug\net8.0\homework1st.dll
+C:\Users\aser\source\repos\homework1st\homework1\obj\Debug\net8.0\refint\homework1st.dll
+C:\Users\aser\source\repos\homework1st\homework1\obj\Debug\net8.0\homework1st.pdb
+C:\Users\aser\source\repos\homework1st\homework1\obj\Debug\net8.0\homework1st.genruntimeconfig.cache
+C:\Users\aser\source\repos\homework1st\homework1\obj\Debug\net8.0\ref\homework1st.dll
